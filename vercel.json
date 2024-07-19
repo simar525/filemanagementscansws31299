@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://scans-jlh5l.ondigitalocean.app/$1"
+ }
+  ]
+}
